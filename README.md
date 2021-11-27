@@ -1,5 +1,5 @@
 # SD-Graduate-Assignment
-  - Input:
+  ##Input:
   
          Language: 'python', 'javascript', 'ruby', 'go'
          gitURL: URL of the gitfile to be extracted.Eg. 'https://github.com/jdave2/projectHW'
@@ -7,7 +7,7 @@
          Output 2 URL: Location of a local folder where the output 2 file can be created
 
          
-  - Usage: 
+  ##Usage: 
   
           python finalTreeSitter.py
           Enter Languageruby
