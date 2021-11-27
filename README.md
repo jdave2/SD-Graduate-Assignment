@@ -1,4 +1,16 @@
 # SD-Graduate-Assignment
+  -Installation:
+  
+         Download a binary for your platform from the latest GitHub release, and put it into a directory on your PATH.
+         git clone https://github.com/tree-sitter-python
+         git clone https://github.com/tree-sitter-javascript
+         git clone https://github.com/tree-sitter-ruby
+         git clone https://github.com/tree-sitter-go
+         
+         pip install tree_sitter
+         pip install git
+         pip install nltk
+         
   -Input:
   
          Language: 'python', 'javascript', 'ruby', 'go'
